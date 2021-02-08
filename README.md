@@ -1,2 +1,2 @@
 # CSharpAdvance
-Generics
+C# Advance Practise
